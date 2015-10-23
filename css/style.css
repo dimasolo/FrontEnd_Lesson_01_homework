@@ -1,0 +1,20 @@
+		div{
+			width: 50%;
+		}
+		.header, .photo {
+			text-align: center;
+		}
+		.contacts, .profile{
+			margin-bottom: 15px;
+			margin-left: 30px;
+		}
+		img{
+			width: 150px;
+			height: 185px;
+		}
+		p{
+			margin-left: 30px;
+		}
+		ul{
+			margin-left: 35px;
+		}
